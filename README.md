@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Palak1993
+- 👋 Hi, I’m Palak Goyal.
 - 👀 I’m interested in learning many programming tools.
 - 🌱 I’m currently learning Java at Lexicon Växjö.
 - 📫 Reach me at palakgoyal083@gmail.com.
